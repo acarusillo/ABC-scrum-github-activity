@@ -18,7 +18,7 @@
 ## Useful commands for creating and moving to branches...
     - `git branch` (shows current local branches)
     - `git branch branchName` (creates a new branch)
-    - `git checkout branchName` (moves you to the branch listed)
+    - `git checkout branchName`  (moves you to the branch listed)
     - `git checkout -b branchName` (creates a new branch and moves you to it)
 
 ## How to push a branch... 
